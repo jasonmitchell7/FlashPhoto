@@ -6,8 +6,8 @@ basic image editing much like MS Paint.
 
 The application was built and tested with C++ on Ubuntu 16.04.
 
-The other two students involved in the project were William Muesi,
-(Meusi007@umn.edu) and Erik Husby (husby036@umn.edu). Some of the initial
+The other two students involved in the project were William Muesing,
+(meusi007@umn.edu) and Erik Husby (husby036@umn.edu). Some of the initial
 files were originally authored by the courses teaching assistants.
 
 ## Building The Application
